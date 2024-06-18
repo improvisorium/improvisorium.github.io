@@ -1,0 +1,72 @@
+body{
+    background-color: wheat;
+    margin:0;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24pt;
+    background-color: black;
+    color: white;
+    padding-left: 5%;
+    margin-top: 0;;
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20pt;
+    background-color:crimson;
+    color: black;
+    padding-left: 5%;
+    margin-top: 0;
+}
+
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16pt;
+    background-color: rgb(92, 22, 59);
+    color: white;
+    padding-left: 5%;
+    margin-top: 0;
+}
+
+h4{
+    font-size: 14pt;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-decoration: underline;
+}
+
+h5{
+    font-size: 14pt;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-decoration: underline;
+}
+
+p{
+    font-size: 14pt;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+li{
+    font-size: 14pt;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+footer{
+    font-size: 14pt;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.nav-style{
+    font-size: medium;
+    margin: 0;
+}
